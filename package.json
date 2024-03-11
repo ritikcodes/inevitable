@@ -1,0 +1,23 @@
+{
+  "name": "inevitable",
+  "version": "1.0.0",
+  "description": "A smart programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "inevitable"
+  },
+  "keywords": [
+    "smart",
+    "programming",
+    "language"
+  ],
+  "author": "Ritik Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
